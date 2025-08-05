@@ -2,5 +2,5 @@ deployment:
  imageURL: shirisha104/user
  imageVersion: v1
 hpa:
- maxReplicas: 1
- Utilization: 3
+ maxReplicas: 10
+ Utilization: 70
