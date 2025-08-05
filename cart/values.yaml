@@ -1,0 +1,6 @@
+deployment:
+ imageURL: shirisha104/cart
+ imageVersion: v1
+hpa:
+ maxReplicas: 10
+ Utilization: 50
