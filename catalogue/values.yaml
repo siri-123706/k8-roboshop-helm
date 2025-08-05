@@ -1,4 +1,4 @@
-statefulset:
+deployment:
  imageURL: shirisha104/catalogue
  imageVersion: v1
 hpa:
