@@ -39,7 +39,7 @@ spec:
     spec:
       containers:
       - name: catalogue
-        image:  shirisha104/catalogue:v1
+        image: shirisha104/catalogue:v1
         resources:
           requests:
             cpu: "50m"
