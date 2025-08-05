@@ -1,0 +1,3 @@
+statefulset:
+ imageURL: shirisha104/redis
+ imageVersion: 7.0 
