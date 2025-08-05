@@ -1,0 +1,6 @@
+statefulset:
+ imageURL: shirisha104/catalogue
+ imageVersion: v1
+hpa:
+ maxReplicas: 10
+ Utilization: 50
